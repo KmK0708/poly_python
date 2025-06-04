@@ -43,7 +43,7 @@
 </details>
 
 <details>
-  <summary><strong>📌 연산자 (Operator)</strong></summary>
+  <summary><strong>📌 <a href="https://gold-century-3b0.notion.site/12-Python-03-19-3-1bb3bfade93280efb762f3664b616430">연산자</a> (Operator)</strong></summary>
   <!-- 내용 -->
   연산자(Operators)는 값을 계산하거나 비교하거나 조합할 때 사용하는 기호</br>
   
@@ -99,7 +99,7 @@ is not : 다른 객체
 </details>
 
 <details>
-  <summary><strong>📌 흐름제어 (Flow Control) </strong></summary>
+  <summary><strong>📌 <a href="https://gold-century-3b0.notion.site/18-python-03-27-4-1c03bfade9328060beded0f5f7cb137e">흐름제어</a> (Flow Control)</strong></summary> 
   <!-- 내용 -->
   파이썬 흐름 제어란, 프로그램의 실행 순서를 특정 조건이나 반복문을 통해 동적으로 변경하는 것을 의미합니다. 
   
