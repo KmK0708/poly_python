@@ -42,6 +42,61 @@
   불리언 (bool): 참/거짓 값
 </details>
 
+<details>
+  <summary><strong>📌 연산자 (Operator)</strong></summary>
+  <!-- 내용 -->
+  연산자(Operators)는 값을 계산하거나 비교하거나 조합할 때 사용하는 기호</br>
+  
+  1. 산술 연산자 (Arithmetic Operators)
+
++ : 덧셈
+- : 뺄셈
+* : 곱셈
+/ : 나눗셈 (실수 결과)
+// : 몫 (정수 나눗셈)
+% : 나머지
+** : 거듭제곱
+
+2. 비교 연산자 (Comparison Operators)
+
+== : 같음
+!= : 다름
+> : 초과
+< : 미만
+>= : 이상
+<= : 이하
+
+3. 논리 연산자 (Logical Operators)
+
+and : 논리곱 (그리고)
+or : 논리합 (또는)
+not : 논리부정 (아니다)
+
+4. 대입 연산자 (Assignment Operators)
+
+= : 기본 대입
++=, -=, *=, /= : 복합 대입
+//=, %=, **= : 복합 대입
+
+5. 멤버십 연산자 (Membership Operators)
+
+in : 포함됨
+not in : 포함되지 않음
+
+6. 식별 연산자 (Identity Operators)
+
+is : 동일한 객체
+is not : 다른 객체
+
+7. 비트 연산자 (Bitwise Operators)
+
+& : 비트 AND
+| : 비트 OR
+^ : 비트 XOR
+~ : 비트 NOT
+<< : 왼쪽 시프트
+>> : 오른쪽 시프트
+</details>
 
 ## 🛠️ 개발 환경
 
