@@ -180,6 +180,16 @@ is not : 다른 객체
  
 </details>
 
+<details>
+  <summary><strong>📌 <a href="https://gold-century-3b0.notion.site/32-04-16-7-1d73bfade93280f697fed4debfe7d256">객체 지향과 클래스</a></strong></summary>
+  <!-- 내용 -->
+  파이썬은 절차지향과 객체지향 프로그래밍을 모두 지원하는 다중 패러다임 언어입니다.</br>
+  객체지향에서는 클래스를 이용해 데이터와 기능을 하나로 묶은 객체를 만들 수 있습니다.</br>
+  클래스는 객체를 만들기 위한 설계도이며, 객체는 이 클래스를 기반으로 생성된 인스턴스입니다.</br>
+  
+ 
+</details>
+
 ## 🛠️ 개발 환경
 
 - **Tool**: Google Colab, VSCode
